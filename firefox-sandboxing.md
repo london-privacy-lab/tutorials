@@ -26,7 +26,7 @@ I've found it to be a phenomenal tool and use it every day. It's seperates out s
 20. Select `Open Link in New Continer Tab`
 21. Select your desired container option
 
-As [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) iseven before [Firefox Beta](https://www.mozilla.org/en-US/firefox/beta/all/) you might find things occasionally break. With that in mind, however, it is the most actively updated version of Firefox around. Many [Mozillians](https://wiki.mozilla.org/Mozillians) use Nightly as their everyday browser. 
+As [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) is even before [Firefox Beta](https://www.mozilla.org/en-US/firefox/beta/all/) you might find things occasionally break. With that in mind, however, it is the most actively updated version of Firefox around. Many [Mozillians](https://wiki.mozilla.org/Mozillians) use Nightly as their everyday browser. 
 
 Do keep in mind that you might struggle to open a variety of versions of Firefox simultaneously. This can be acheived a simple terminal command `--no-remote`. So for example `firefox --no-remote`
 
