@@ -17,4 +17,9 @@ I've found it to be a phenomenal tool and use it every day. It's seperates out s
 11. Select `Remove` to delete a container
 12. Select `Add New Container` to *shock* add a new one. You could add an emoji (or five) to the name if you wanted to.
 13. **To open a new container tab**
-14. still writing this 20170219 11:32 UTC
+14. Open menu (via the hamburger button '≡')
+15. Select the container option you wish to use
+16. Note that this will open a new tab and not perform this action in the current tab
+17. As a benefit to your privacy, you can not open a currently open tab in a different container. This bugged me for a little while, but this is a beneficial feature of containers.
+18. **To open a webpage URL in a specific container**
+19. still writing this 20170219 11:40 UTC
