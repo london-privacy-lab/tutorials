@@ -1,6 +1,6 @@
 # Setup Sandboxing in Firefox Nightly using Containers
 
-From version 50 of [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) (not yet rolled out beyond this testing phase) [Mozilla added the ability](https://blog.mozilla.org/tanvi/2016/06/16/contextual-identities-on-the-web/) to compartmentalise identities you use in your browser.
+From version 50 of [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) (not yet rolled out beyond this testing phase) [Mozilla](https://www.mozilla.org/) [added the ability](https://blog.mozilla.org/tanvi/2016/06/16/contextual-identities-on-the-web/) to compartmentalise identities you use in your browser.
 
 I've found it to be a phenomenal tool and use it every day. It's seperates out session cookies, indexDB, localStorage, and Cache. You can only share this information only across the same container. As long as you keep a tab open, all this data is retained. Once you close all of the container tabs, all the session data is deleted. Immediately opening another tab of the same container, once you've done this, will be an entirely fresh session. Very reassuring level of added control I'm sure you'll agree.
 
@@ -22,4 +22,11 @@ I've found it to be a phenomenal tool and use it every day. It's seperates out s
 16. Note that this will open a new tab and not perform this action in the current tab
 17. As a benefit to your privacy, you can not open a currently open tab in a different container. This bugged me for a little while, but this is a beneficial feature of containers.
 18. **To open a webpage URL in a specific container**
-19. still writing this 20170219 11:40 UTC
+19. Right-click the url
+20. Select `Open Link in New Continer Tab`
+21. Select your desired container option
+
+As [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) iseven before [Firefox Beta](https://www.mozilla.org/en-US/firefox/beta/all/) you might find things occasionally break. With that in mind, however, it is the most actively updated version of Firefox around. Many [Mozillians](https://wiki.mozilla.org/Mozillians) use Nightly as their everyday browser. 
+
+Do keep in mind that you might struggle to open a variety of versions of Firefox simultaneously. This can be acheived a simple terminal command `--no-remote`. So for example `firefox --no-remote`
+
