@@ -36,6 +36,13 @@ Documentation seemed to be all over the place. Compiling this file to archive fo
 32. Select `Password Parameters` to your needs [I selected checkboxes for `upper an lower case`, `Alphanumeric`, and finally `Generate` for all 3 fields here]
 33. Select `Write Configuration` [this will also save to your earlier created CSV]
 34. **Setup U2F in your Github Account**
+35. Go to your [profile settings](https://github.com/settings/profile)
+36. Select `Security`
+37. Select `Edit`
+38. Select `Register new device`
+39. Enter a name for this key
+40. Select `Add`
+41. Manually touch the button on your Yubikey
 
 **To find out more about the 'Yubico Personalization Tool'** [click here](https://www.yubico.com/support/knowledge-base/categories/articles/yubikey-personalization-tool-users-guide/) for the manual
 
