@@ -6,4 +6,9 @@ From version 50 of [Firefox Nightly](https://www.mozilla.org/en-US/firefox/chann
 
 I've found it to be a phenomenal tool and use it every day. It's seperates out session cookies, indexDB, localStorage, and Cache. You can only share this information only across the same container. As long as you keep a tab open, all this data is retained. Once you close all of the container tabs, all the session data is deleted. Immediately opening another tab of the same container, once you've done this, will be an entirely fresh session. Very reassuring level of added control I'm sure you'll agree.
 
-1. Download [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/)
+1. Download and open [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/)
+2. Open the menu (via the hamburger button '≡')
+3. Select `Customize`
+4. From the left drag `Open Container Tab` to the the customisable menu open on the right
+5. Select `Exit Customize`
+
