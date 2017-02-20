@@ -2,9 +2,16 @@
 
 ### Android Marshmallow Encryption
 
-http://github.com/london-privacy-lab/tutorials/blob/master/android-marshamllow-crypto.md
+https://github.com/london-privacy-lab/tutorials/blob/master/android-marshamllow-crypto.md
 
-En example of what can be done to increase the level of privacy on your Android phone or tablet
+In example of what can be done to increase the level of privacy on your Android phone or tablet. I'm sure there's more which can be done (let switching to Fdroid and whatever comes after Cyanogenmod) but that will come in later tutorial.
+
+
+### Firefox Containers
+
+https://github.com/london-privacy-lab/tutorials/blob/master/firefox-sandboxing.md
+
+I use Firefox Nightly as my everday browser. It's updated every night, so always has the latest bug fixes. Right now we're on the Alpha of version 54.
 
 
 ### Yubikey on Arch Linux
