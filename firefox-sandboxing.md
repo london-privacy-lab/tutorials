@@ -25,6 +25,10 @@ I've found it to be a phenomenal tool and use it every day. It's seperates out s
 19. Right-click the url
 20. Select `Open Link in New Continer Tab`
 21. Select your desired container option
+22. **or if you have a ton of tabs open**
+23. Select the new `List all tabs` arrow down icon that appears to the right in the tab menu
+24. Select `New container tab`
+25. Select your desired container session or `manage containers` to edit or delete
 
 As [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) is even before [Firefox Beta](https://www.mozilla.org/en-US/firefox/beta/all/) you might find things occasionally break. With that in mind, however, it is the most actively updated version of Firefox around. Many [Mozillians](https://wiki.mozilla.org/Mozillians) use Nightly as their everyday browser. 
 
