@@ -7,7 +7,7 @@ I've found it to be a phenomenal tool and use it every day. It's seperates out s
 1. Download and open [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/)
 2. Open menu (via the hamburger button '≡')
 3. Select `Customize`
-4. From the left drag `Open Container Tab` to the the customisable menu open on the right [You could alternatively drag this to your toolbar]
+4. From the left drag `Open Container Tab` to the the customisable menu open on the right [You could alternatively drag this to your toolbar. It will save you a click every time by adding it to the toolbar]
 5. Select `Exit Customize`
 6. **To open the container menu**
 7. Open menu (via the hamburger button '≡')
