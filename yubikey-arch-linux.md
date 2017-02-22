@@ -44,7 +44,13 @@ Documentation seemed to be all over the place. Compiling this file to archive fo
 40. Select `Add`
 41. Manually touch the button on your Yubikey
 
-**To find out more about the 'Yubico Personalization Tool'** [click here](https://www.yubico.com/support/knowledge-base/categories/articles/yubikey-personalization-tool-users-guide/) for the manual
+**To use your Yubikey's OTP**
+Select the text field you wish to fill and manually press the Yubikey button for less than 3 seconds.
+
+**To use you Yubikey's Static Password**
+Select the text field you wish to fill and hold down the Yubikey button for more than 3 seconds.
+
+**To find out more about the 'Yubico Personalization Tool'** [click here](https://www.yubico.com/support/knowledge-base/categories/articles/yubikey-personalization-tool-users-guide/) for the manual. You could add a username and a password into the static password configuration. Note that you can only store ONE configuration in each key slot. It's perhaps not for storing an entire keepass database but the master password instead.
 
 **To test out your Yubikey** [click here](https://demo.yubico.com/) to head over to the demo site
 
